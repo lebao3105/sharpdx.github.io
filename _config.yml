@@ -2,12 +2,12 @@
 author: Alexandre Mutel
 title: SharpDX
 description: SharpDX website
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/sharpdxWebsite/" # the subpath of your site, e.g. /blog/
 url: "http://lebao3105.github.io" # the base hostname & protocol for your site
 
 # Github repository
-github_user: SharpDX
-github_repo_url: https://github.com/lebao3105/sharpdxWiki
+github_user: lebao3105
+github_repo_url: https://github.com/lebao3105/sharpdxWebsite
 
 # Jekyll settings
 permalink: /blog/:year/:month/:day/:title/
