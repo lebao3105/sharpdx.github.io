@@ -4,7 +4,7 @@ title: Home
 title_html: Welcome!
 ---
 <a href="https://github.com/sharpdx/SharpDX">
-<img src="/images/forkgithub.png" style="position: absolute; top: 0; right: 0; border: 0; padding: 0; margin: 0; box-shadow: none;"></a>
+<img src="https://raw.githubusercontent.com/lebao3105/sharpdxWebsite/master/images/forkgithub.png" style="position: absolute; top: 0; right: 0; border: 0; padding: 0; margin: 0; box-shadow: none;"></a>
 SharpDX is an <a href="https://github.com/sharpdx/SharpDX" target="_blank">open-source</a> **managed .NET wrapper** of the <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ee663274%28v=vs.85%29.aspx" target="_blank">DirectX API</a>.
 
 > NOTE: As of 29 Mar 2019, **SharpDX is no longer being under development or maintenance**
