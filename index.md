@@ -52,7 +52,7 @@ Latest stable and development binary versions are directly available on <a href=
 
 ## Documentation
 
-The documentation is available through the [wiki](/wiki).
+The documentation is available through the [wiki](wiki).
 
 ## Licensing
 
